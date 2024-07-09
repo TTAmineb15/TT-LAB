@@ -1,0 +1,986 @@
+.mediaViewInfo {
+	--web-view-name: TT-LAB;
+	--web-view-id: TT-LAB;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-show-by-media-query: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: arial; times;
+}
+:root {
+	--web-view-ids: TT-LAB;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#TT-LAB {
+	position: absolute;
+	width: 1664px;
+	height: 5504px;
+	font-family: arial; times;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: TT-LAB;
+	--web-view-id: TT-LAB;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-show-by-media-query: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: arial; times;
+}
+#Groupe_44 {
+	position: absolute;
+	width: 786px;
+	height: 904px;
+	left: 401px;
+	top: 353px;
+	overflow: visible;
+}
+#Capture_1 {
+	position: absolute;
+	width: 786px;
+	height: 904px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_45 {
+	position: absolute;
+	width: 841px;
+	height: 297px;
+	left: 370px;
+	top: 30px;
+	overflow: visible;
+}
+#Termin_Tracker_LAB_Mthode_dabo {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 840px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(230,30,57,1);
+}
+#Visite_le_site_web__ {
+	left: 9px;
+	top: 211px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(9,8,8,1);
+}
+#Ligne_8 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_8 {
+	overflow: visible;
+	position: absolute;
+	width: 832.238px;
+	height: 1px;
+	left: 7.616px;
+	top: 186.852px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#httpswwwtermin-tracker-allcom {
+	left: 159px;
+	top: 258px;
+	position: absolute;
+	overflow: visible;
+	width: 512px;
+	height: 39px;
+	text-align: center;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(7,7,7,1);
+}
+#__ {
+	left: 541px;
+	top: 204px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	height: 57px;
+	text-align: right;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(7,7,7,1);
+}
+#Groupe_43 {
+	position: absolute;
+	width: 786px;
+	height: 867px;
+	left: 401px;
+	top: 1337px;
+	overflow: visible;
+}
+#Capture_3 {
+	position: absolute;
+	width: 786px;
+	height: 867px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_20 {
+	position: absolute;
+	width: 148.004px;
+	height: 95px;
+	left: 139.996px;
+	top: 700px;
+	overflow: visible;
+}
+#Union_1 {
+	fill: rgba(245,19,19,1);
+	stroke: rgba(114,239,69,0.859);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_1 {
+	overflow: visible;
+	position: absolute;
+	width: 91.901px;
+	height: 34.601px;
+	transform: translate(-300.028px, -613.33px) matrix(1,0,0,1,300.3224,662.6258) rotate(181deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#ID1 {
+	left: 105.004px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Serifa BT, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 82px;
+	color: rgba(249,6,6,1);
+}
+#Groupe_41 {
+	position: absolute;
+	width: 1404px;
+	height: 913px;
+	left: 130px;
+	top: 3271px;
+	overflow: visible;
+}
+#Capture_5 {
+	position: absolute;
+	width: 1404px;
+	height: 913px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_36 {
+	position: absolute;
+	width: 314px;
+	height: 101.279px;
+	left: 997.25px;
+	top: 79.307px;
+	overflow: visible;
+}
+#Union_1_y {
+	fill: rgba(245,19,19,1);
+	stroke: rgba(114,239,69,0.859);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_1_y {
+	overflow: visible;
+	position: absolute;
+	width: 123.059px;
+	height: 23.702px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,39.9194,53.5751) rotate(156deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Email_vrifier_bien {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 315px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Serifa BT, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(249,6,6,1);
+}
+#Groupe_33 {
+	position: absolute;
+	width: 517.954px;
+	height: 447.706px;
+	left: 332px;
+	top: 298.294px;
+	overflow: visible;
+}
+#Rectangle_5 {
+	fill: transparent;
+	stroke: rgba(209,26,63,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	height: 56px;
+	left: 0px;
+	top: 391.706px;
+}
+#Ligne_2 {
+	fill: transparent;
+	stroke: rgba(242,10,10,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_2 {
+	overflow: visible;
+	position: absolute;
+	width: 336.528px;
+	height: 3px;
+	left: 114.846px;
+	top: 419.695px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ligne_3 {
+	fill: transparent;
+	stroke: rgba(242,10,10,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_3 {
+	overflow: visible;
+	position: absolute;
+	width: 65.857px;
+	height: 407.6px;
+	left: 448.375px;
+	top: 15.518px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polygone_1 {
+	fill: rgba(242,11,11,1);
+}
+.Polygone_1 {
+	overflow: visible;
+	position: absolute;
+	width: 9.858px;
+	height: 16.43px;
+	transform: translate(-0.261px, 0px) matrix(1,0,0,1,507.0049,0.7311) rotate(10deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Groupe_34 {
+	position: absolute;
+	width: 870.467px;
+	height: 388.589px;
+	left: 118px;
+	top: 387.411px;
+	overflow: visible;
+}
+#Rectangle_6 {
+	fill: transparent;
+	stroke: rgba(30,197,58,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	height: 47px;
+	left: 0px;
+	top: 341.589px;
+}
+#Ligne_4 {
+	fill: transparent;
+	stroke: rgba(30,197,58,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_4 {
+	overflow: visible;
+	position: absolute;
+	width: 495.767px;
+	height: 29.444px;
+	left: 202.623px;
+	top: 360.152px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Groupe_10 {
+	position: absolute;
+	width: 175.233px;
+	height: 360.152px;
+	left: 695.234px;
+	top: 0px;
+	overflow: visible;
+}
+#Ligne_5 {
+	fill: transparent;
+	stroke: rgba(30,197,58,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_5 {
+	overflow: visible;
+	position: absolute;
+	width: 168.298px;
+	height: 349.027px;
+	left: 0px;
+	top: 15.123px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polygone_2 {
+	fill: rgba(30,197,58,1);
+}
+.Polygone_2 {
+	overflow: visible;
+	position: absolute;
+	width: 9.858px;
+	height: 16.43px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,162.6565,1.2482) rotate(22deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Groupe_35 {
+	position: absolute;
+	width: 743.825px;
+	height: 432.197px;
+	left: 118px;
+	top: 241.803px;
+	overflow: visible;
+}
+#Groupe_9 {
+	position: absolute;
+	width: 734.666px;
+	height: 419.336px;
+	left: 0px;
+	top: 12.861px;
+	overflow: visible;
+}
+#Rectangle_4 {
+	fill: transparent;
+	stroke: rgba(26,209,165,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 575px;
+	height: 56px;
+	left: 0px;
+	top: 363.336px;
+}
+#Ligne_6 {
+	fill: transparent;
+	stroke: rgba(26,209,165,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_6 {
+	overflow: visible;
+	position: absolute;
+	width: 245.659px;
+	height: 366.409px;
+	left: 491.503px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polygone_3 {
+	fill: rgba(26,209,165,1);
+}
+.Polygone_3 {
+	overflow: visible;
+	position: absolute;
+	width: 9.858px;
+	height: 16.43px;
+	transform: translate(0.324px, 0px) matrix(1,0,0,1,730.2783,1.3596) rotate(29deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Groupe_37 {
+	position: absolute;
+	width: 141.94px;
+	height: 121.4px;
+	left: 1100.061px;
+	top: 788.6px;
+	overflow: visible;
+}
+#Union_1_bh {
+	fill: rgba(245,19,19,1);
+	stroke: rgba(114,239,69,0.859);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_1_bh {
+	overflow: visible;
+	position: absolute;
+	width: 97.862px;
+	height: 36.846px;
+	transform: translate(0px, 0.001px) matrix(1,0,0,1,-0.9357,28.8192) rotate(224deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#ID3 {
+	left: 95.939px;
+	top: 20.4px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Serifa BT, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 87px;
+	color: rgba(249,6,6,1);
+}
+#Groupe_39 {
+	position: absolute;
+	width: 160px;
+	height: 105px;
+	left: 122px;
+	top: 123px;
+	overflow: visible;
+}
+#Groupe_38 {
+	position: absolute;
+	width: 121px;
+	height: 36px;
+	left: 39px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_11 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+}
+#TT-LAB_bm {
+	left: 28.5px;
+	top: 4.5px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(109,103,103,1);
+}
+#Rectangle_12 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 136px;
+	height: 55px;
+	left: 0px;
+	top: 50px;
+}
+#ID799 {
+	left: 48px;
+	top: 37.5px;
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 57px;
+	text-align: center;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(4,4,4,1);
+}
+#Rectangle_13 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 194px;
+	height: 34px;
+	left: 843px;
+	top: 147px;
+}
+#Groupe_42 {
+	position: absolute;
+	width: 786px;
+	height: 926px;
+	left: 401px;
+	top: 2284px;
+	overflow: visible;
+}
+#Capture_3_br {
+	position: absolute;
+	width: 786px;
+	height: 926px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Groupe_22 {
+	position: absolute;
+	width: 573.947px;
+	height: 39px;
+	left: 136.053px;
+	top: 668px;
+	overflow: visible;
+}
+#Union_1_bt {
+	fill: rgba(245,19,19,1);
+	stroke: rgba(114,239,69,0.859);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_1_bt {
+	overflow: visible;
+	position: absolute;
+	width: 267.94px;
+	height: 20.248px;
+	transform: translate(0px, -0.1px) matrix(1,0,0,1,0.1568,13.9427) rotate(181deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Email_vrifier_bien_bu {
+	left: 277.947px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 297px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Serifa BT, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(249,6,6,1);
+}
+#Groupe_40 {
+	position: absolute;
+	width: 148.004px;
+	height: 95px;
+	left: 120.996px;
+	top: 717px;
+	overflow: visible;
+}
+#Union_1_bw {
+	fill: rgba(245,19,19,1);
+	stroke: rgba(114,239,69,0.859);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_1_bw {
+	overflow: visible;
+	position: absolute;
+	width: 91.901px;
+	height: 34.601px;
+	transform: translate(-300.028px, -613.33px) matrix(1,0,0,1,300.3224,662.6258) rotate(181deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#ID2 {
+	left: 105.004px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Serifa BT, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 82px;
+	color: rgba(249,6,6,1);
+}
+#Groupe_51 {
+	position: absolute;
+	width: 1288px;
+	height: 1194px;
+	left: 179px;
+	top: 4288px;
+	overflow: visible;
+}
+#Capture_6 {
+	position: absolute;
+	width: 1232px;
+	height: 700px;
+	left: 0px;
+	top: 89px;
+	overflow: visible;
+}
+#Groupe_46 {
+	position: absolute;
+	width: 85.941px;
+	height: 120.343px;
+	left: 210.242px;
+	top: 151px;
+	overflow: visible;
+}
+#Union_1_b {
+	fill: rgba(245,19,19,1);
+	stroke: rgba(114,239,69,0.859);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_1_b {
+	overflow: visible;
+	position: absolute;
+	width: 82.212px;
+	height: 25.212px;
+	transform: translate(0px, -0.429px) matrix(1,0,0,1,1.8644,82.8648) rotate(161deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#ID4 {
+	left: 29.758px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Serifa BT, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 81px;
+	color: rgba(249,6,6,1);
+}
+#Groupe_48 {
+	position: absolute;
+	width: 136.281px;
+	height: 90px;
+	left: 118.11px;
+	top: 560.687px;
+	overflow: visible;
+}
+#Union_1_ca {
+	fill: rgba(245,19,19,1);
+	stroke: rgba(114,239,69,0.859);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_1_ca {
+	overflow: visible;
+	position: absolute;
+	width: 82.212px;
+	height: 25.212px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0.415,34.9752) rotate(178deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#ID5 {
+	left: 95.281px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Serifa BT, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 78px;
+	color: rgba(249,6,6,1);
+}
+#Visiter_votre_boite_mail {
+	left: 37px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 339px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,12,12,1);
+}
+#Boite_de_rception_ou_SPAM {
+	left: 386px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 406px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(232,22,22,1);
+}
+#___ {
+	left: 802px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 394px;
+	height: 53px;
+	text-align: right;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,12,12,1);
+}
+#Groupe_49 {
+	position: absolute;
+	width: 458px;
+	height: 82px;
+	left: 353px;
+	top: 224px;
+	overflow: visible;
+}
+#Rectangle_14 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 458px;
+	height: 80px;
+	left: 0px;
+	top: 2px;
+}
+#TerminTracker_TT-LAB_Confirmat {
+	left: 3px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 447px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(4,4,4,1);
+}
+#tt_alpha_workeroutlookcom {
+	left: 0px;
+	top: 57px;
+	position: absolute;
+	overflow: visible;
+	width: 231px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(4,4,4,1);
+}
+#Rectangle_15 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 880px;
+	height: 465px;
+	left: 342px;
+	top: 324px;
+}
+#Bonjour_Voici_votre_lien_pour_ {
+	left: 353px;
+	top: 330px;
+	position: absolute;
+	overflow: visible;
+	width: 811px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(7,7,7,1);
+}
+#Union_3 {
+	fill: rgba(245,19,19,1);
+	stroke: rgba(114,239,69,0.859);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_3 {
+	overflow: visible;
+	position: absolute;
+	width: 82.212px;
+	height: 25.212px;
+	transform: translate(-179px, -4288px) matrix(1,0,0,1,1123.3646,4697.696) rotate(264deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#______ {
+	left: 519px;
+	top: 894px;
+	position: absolute;
+	overflow: visible;
+	width: 770px;
+	height: 68px;
+	text-align: right;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(6,6,6,1);
+}
+#httpswwwtermin-tracker-allcom_ch {
+	left: 426px;
+	top: 1158px;
+	position: absolute;
+	overflow: visible;
+	width: 382px;
+	height: 36px;
+	text-align: center;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+	text-decoration: underline;
+}
+#Le_groupe_LAB_apparait_sur_Tel {
+	left: 35px;
+	top: 837px;
+	position: absolute;
+	overflow: visible;
+	width: 857px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,12,12,1);
+}
+#Groupe_50 {
+	position: absolute;
+	width: 1123px;
+	height: 133px;
+	left: 92px;
+	top: 975px;
+	overflow: visible;
+}
+#Capture_dcran_2024-06-29_18331 {
+	position: absolute;
+	width: 1123px;
+	height: 133px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_17 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 389px;
+	height: 37px;
+	left: 119px;
+	top: 80px;
+}
